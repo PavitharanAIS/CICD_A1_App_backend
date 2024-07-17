@@ -1,4 +1,4 @@
-#GitHub Workflow Automatically created by GitHub Actions
+#GitHub Actions Workflow Automatically created by GitHub Actions
 name: Django CI
 
 on:
