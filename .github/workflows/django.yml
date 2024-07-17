@@ -1,4 +1,4 @@
-#GitHubAutomatically created by GitHub Actions
+#GitHub ActionsAutomatically created by GitHub Actions
 name: Django CI
 
 on:
